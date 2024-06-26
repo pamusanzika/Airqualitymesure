@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #000000; /* Black background for the whole page */
+}
+
+.App {
+  text-align: center;
+  padding: 20px;
+  background-color: #000000; /* Black background for the App container */
+}
+
+h1 {
+  margin-bottom: 40px;
+  font-size: 2.5em;
+  color: 	#1F51FF; /* Change text color to white for visibility on black background */
+}
+
+.gauge-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
